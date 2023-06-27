@@ -1,0 +1,19 @@
+{
+  "id" : 12274,
+  "applicationName" : "Temp_GitRepo_Public_Readme",
+  "description" : "Temp_GitRepo_Public_Readme",
+  "applicationUrl" : "http://",
+  "state" : null,
+  "tag" : "",
+  "repositoryType" : "GIT",
+  "repository" : "https://github.com/RenjithT0439/TestappQA9_AR.git",
+  "gitRepositoryBranch" : "main",
+  "gitAaRepository" : "https://github.com/RenjithT0439/TestappQA9_AAR.git",
+  "gitAaRepositoryBranch" : "main",
+  "gitResultRepository" : "https://github.com/RenjithT0439/TestappQA9_RR.git",
+  "gitResultRepositoryBranch" : "main",
+  "gitAaScreenshotsRepository" : "https://github.com/RenjithT0439/TestappQA9_AASR.git",
+  "gitAaScreenshotsRepositoryBranch" : "main",
+  "repositoryChanged" : false,
+  "platforms" : [ ]
+}
